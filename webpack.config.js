@@ -7,6 +7,7 @@ module.exports = {
     TcB: './src/components/TcB',
     FcN: './src/components/FcN',
     FcB: './src/components/FcB',
+    FcP: './src/components/FcP',
   },
   output: {
     filename: '[name].js',
